@@ -1,7 +1,8 @@
 # La carte des communes et des quartiers
 
-- [GitHub](https://github.com/kpym/lille-communes-colleges/blob/master/Lille_quartiers_et_autour.GeoJson)
 - [bl.ock.org](http://bl.ocks.org/anonymous/raw/2f3d9ca4c131981fa33f22f105a73420/)
+- [GitHub](https://github.com/kpym/lille-communes-colleges/blob/master/Lille_quartiers_et_autour.GeoJson)
+- [Google Maps](https://goo.gl/ow6FZZ)
 
 # Les cartes scolaires
 
